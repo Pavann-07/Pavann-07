@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120" role="presentation">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F172A"/><stop offset="0.55" stop-color="#312E81"/><stop offset="1" stop-color="#0D9488"/></linearGradient></defs>
+<rect width="1000" height="120" fill="url(#bg)"/>
+<path d="M0,40 Q125,22 250,40 T500,40 T750,40 T1000,40 T1250,40 T1500,40 T1750,40 T2000,40 T2250,40 T2500,40 T2750,40 T3000,40 V120 H0 Z" fill="#0D9488" fill-opacity="0.4"><animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="10s" repeatCount="indefinite"/></path>
+<path d="M0,60 Q125,46 250,60 T500,60 T750,60 T1000,60 T1250,60 T1500,60 T1750,60 T2000,60 T2250,60 T2500,60 T2750,60 T3000,60 V120 H0 Z" fill="#6366F1" fill-opacity="0.4"><animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="14s" repeatCount="indefinite"/></path>
+<path d="M0,80 Q125,68 250,80 T500,80 T750,80 T1000,80 T1250,80 T1500,80 T1750,80 T2000,80 T2250,80 T2500,80 T2750,80 T3000,80 V120 H0 Z" fill="#0F172A" fill-opacity="0.85"><animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="8s" repeatCount="indefinite"/></path>
+<text x="500" y="106" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#CBD5E1" letter-spacing="1">Building intelligent systems, one project at a time.</text>
+</svg>
