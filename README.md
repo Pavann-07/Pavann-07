@@ -2,9 +2,6 @@
 
 <img src="assets/banner.svg" width="100%" alt="Pavan S" />
 
-<p>
-  <strong>B.Tech. Artificial Intelligence & Data Science | Data Science | Machine Learning | LLM & RAG | Agentic AI | Autonomous Systems | Software Development</strong>
-</p>
 
 <a href="https://github.com/Pavann-07">
   <img src="assets/typing.svg" width="600" alt="AI & Data Science Student, Robotics, Computer Vision, LLM & RAG, Agentic AI, Autonomous Systems" />
